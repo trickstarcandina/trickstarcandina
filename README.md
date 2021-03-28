@@ -1,5 +1,18 @@
 ### Hi there 👋
+## **Info**
 
+Coding ＞︿＜
+
+
+
+## **Contact me**
+
+[YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
+
+[Facebook](https://www.facebook.com/100009538187924)
+
+My Discord name & tag is Trickstar#9586.
+[My server discord](https://discord.gg/U2aSmpK4Px)
 <!--
 **trickstarcandina/trickstarcandina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
