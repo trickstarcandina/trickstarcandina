@@ -13,6 +13,9 @@ Coding ＞︿＜
 
 My Discord name & tag is Trickstar#9586.
 [My server discord](https://discord.gg/U2aSmpK4Px)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina)](https://github.com/trickstarcandina/github-readme-stats)
+
 <!--
 **trickstarcandina/trickstarcandina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
