@@ -15,7 +15,9 @@ My Discord name & tag is Trickstar#9586.
 
 [My server discord](https://discord.gg/U2aSmpK4Px)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
