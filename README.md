@@ -12,9 +12,12 @@ Coding ＞︿＜
 [Facebook](https://www.facebook.com/100009538187924)
 
 My Discord name & tag is Trickstar#9586.
+
 [My server discord](https://discord.gg/U2aSmpK4Px)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina)](https://github.com/trickstarcandina/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **trickstarcandina/trickstarcandina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
