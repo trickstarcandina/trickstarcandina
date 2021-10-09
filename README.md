@@ -15,9 +15,9 @@ Coding ＞︿＜
 
 
 ### Frameworks
-<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136654909-4f6da03b-48e1-443a-a748-cfceec6dc1e0.png" width="45px"/>
-<img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136654943-cd7ec96e-8586-4215-92b7-a5abca9444d8.png" width="45px" />
-<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136655003-0d4076cb-3243-4571-b0d9-1a0f33aa55b6.png" width="45px" />
+<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136654909-4f6da03b-48e1-443a-a748-cfceec6dc1e0.png" width="40px"/>
+<img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136654943-cd7ec96e-8586-4215-92b7-a5abca9444d8.png" width="40px" />
+<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136655003-0d4076cb-3243-4571-b0d9-1a0f33aa55b6.png" width="40px" />
 <br />
 
 
