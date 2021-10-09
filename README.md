@@ -22,7 +22,7 @@ Coding ＞︿＜
 
 
 ### Databases
-<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136655309-605161e8-b08e-43e2-84bf-b6b033961e1e.png" width="50px"/>
+<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136655309-605161e8-b08e-43e2-84bf-b6b033961e1e.png" width="45px"/>
 <img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136655285-b4793f8c-1e5a-4d46-8eab-2008ed2ba19a.png" height="45px" />
 <img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136655359-5d5a065e-4b4e-4dce-9e13-6df6e77e1481.png" height="45px" />
 <br />
