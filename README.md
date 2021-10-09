@@ -11,7 +11,33 @@ Coding ＞︿＜
 
 [Facebook](https://www.facebook.com/100009538187924)
 
-My Discord name & tag is Trickstar#9586 and [My server discord](https://discord.gg/7A7NVc5HZf)
+[My server discord](https://discord.gg/7A7NVc5HZf) (Name Discord: Trickstar#9586)
+
+
+### Frameworks
+<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136654909-4f6da03b-48e1-443a-a748-cfceec6dc1e0.png" width="45px"/>
+<img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136654943-cd7ec96e-8586-4215-92b7-a5abca9444d8.png" width="45px" />
+<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136655003-0d4076cb-3243-4571-b0d9-1a0f33aa55b6.png" width="45px" />
+<br />
+
+
+### Databases
+<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136655309-605161e8-b08e-43e2-84bf-b6b033961e1e.png" width="60px"/>
+<img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136655285-b4793f8c-1e5a-4d46-8eab-2008ed2ba19a.png" height="48px" />
+<img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136655359-5d5a065e-4b4e-4dce-9e13-6df6e77e1481.png" height="48px" />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Card Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
