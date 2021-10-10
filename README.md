@@ -20,13 +20,11 @@ Ehe Te Nandayo! (￣^￣)
 <img align="left" alt="C++" src="https://user-images.githubusercontent.com/61593963/136700643-46456e4d-cb1f-4828-b465-10e42230aa0b.png" width="36px" />
 <br />
 
-
 ### Frameworks
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" width="100px"/>
 <img align="left" alt="NodeJS" src="https://user-images.githubusercontent.com/61593963/136700375-22c3548e-8cb9-4eac-a857-06fb0da7d7e6.png" width="100px" />
 <img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136700411-7149ff3d-f6b3-4f34-8b7c-4ae8a2488509.png" width="100px" />
 <br />
-
 
 ### Databases
 <img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136699898-0e99be87-b485-4e8c-9844-ab88d51ac265.png" width="100px"/>
@@ -34,13 +32,12 @@ Ehe Te Nandayo! (￣^￣)
 <img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136699967-971cb9cb-5b8c-42a5-96b8-b595231ce86c.png" height="40px" />
 <br />
 
-
 ### Card Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
