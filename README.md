@@ -15,7 +15,10 @@ Ehe Te Nandayo! (￣^￣)
 ## ❤ A few things I love
 
 ### Languages
-
+<img align="left" alt="Java" src="https://user-images.githubusercontent.com/61593963/136700491-91f4f13b-a8e8-4a40-9612-d214b528d46c.png" width="50px"/>
+<img align="left" alt="JS" src="https://user-images.githubusercontent.com/61593963/136700526-74ef3f4e-8f8f-4847-868b-f971d61ed602.png" width="45px" />
+<img align="left" alt="C++" src="https://user-images.githubusercontent.com/61593963/136700643-46456e4d-cb1f-4828-b465-10e42230aa0b.png" width="40px" />
+<br />
 
 
 ### Frameworks
@@ -32,9 +35,9 @@ Ehe Te Nandayo! (￣^￣)
 <br />
 
 
-
 ### Card Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
