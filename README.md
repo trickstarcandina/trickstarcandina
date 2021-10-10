@@ -27,7 +27,7 @@ Ehe Te Nandayo! (￣^￣)
 
 ### Databases
 <img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136699898-0e99be87-b485-4e8c-9844-ab88d51ac265.png" width="80px"/>
-<img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136699472-4bdb6b48-057c-4353-b201-6b4510c10c19.png" height="30px" />
+<img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136700238-a216fe74-6399-4d72-b92d-0cb4f0c58ea1.png" height="40px" />
 <img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136699967-971cb9cb-5b8c-42a5-96b8-b595231ce86c.png" height="40px" />
 <br />
 
