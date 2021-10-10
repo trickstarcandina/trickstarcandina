@@ -1,11 +1,10 @@
 ### Hi there 👋
-## **Info**
 
 Coding ＞︿＜
 
+Ehe Te Nandayo! (￣^￣)
 
-
-## **Contact me**
+## **📫 Contact**
 
 [YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
 
@@ -13,6 +12,9 @@ Coding ＞︿＜
 
 [My server discord](https://discord.gg/7A7NVc5HZf) (Name Discord: Trickstar#9586)
 
+
+<img align="left" alt="Gmail" src="[(https://user-images.githubusercontent.com/61593963/136698914-17f5a5d2-36b8-4914-b1a1-d0182544fe7f.png)](mailto:minhthang.101220@gmail.com)" width="40px"/>
+<br />
 
 ### Frameworks
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136654909-4f6da03b-48e1-443a-a748-cfceec6dc1e0.png" width="40px"/>
@@ -26,16 +28,6 @@ Coding ＞︿＜
 <img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136655285-b4793f8c-1e5a-4d46-8eab-2008ed2ba19a.png" height="40px" />
 <img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136655359-5d5a065e-4b4e-4dce-9e13-6df6e77e1481.png" height="40px" />
 <br />
-
-
-
-
-
-
-
-
-
-
 
 
 
