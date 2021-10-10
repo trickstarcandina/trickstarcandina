@@ -6,15 +6,17 @@ Ehe Te Nandayo! (￣^￣)
 
 ## **📫 Contact**
 
-[YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
+- [YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
 
-[Facebook](https://www.facebook.com/100009538187924)
+- [Facebook](https://www.facebook.com/100009538187924)
 
-[My server discord](https://discord.gg/7A7NVc5HZf) (Name Discord: Trickstar#9586)
+- [My server discord](https://discord.gg/7A7NVc5HZf) (Name Discord: Trickstar#9586)
+
+## ❤ A few things I love
+
+### Languages
 
 
-<img align="left" alt="Gmail" src="[(https://user-images.githubusercontent.com/61593963/136698914-17f5a5d2-36b8-4914-b1a1-d0182544fe7f.png)](mailto:minhthang.101220@gmail.com)" width="40px"/>
-<br />
 
 ### Frameworks
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136654909-4f6da03b-48e1-443a-a748-cfceec6dc1e0.png" width="40px"/>
@@ -24,9 +26,9 @@ Ehe Te Nandayo! (￣^￣)
 
 
 ### Databases
-<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136655309-605161e8-b08e-43e2-84bf-b6b033961e1e.png" width="40px"/>
-<img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136655285-b4793f8c-1e5a-4d46-8eab-2008ed2ba19a.png" height="40px" />
-<img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136655359-5d5a065e-4b4e-4dce-9e13-6df6e77e1481.png" height="40px" />
+<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136699898-0e99be87-b485-4e8c-9844-ab88d51ac265.png" width="80px"/>
+<img align="left" alt="MongoDB" src="https://user-images.githubusercontent.com/61593963/136699472-4bdb6b48-057c-4353-b201-6b4510c10c19.png" height="30px" />
+<img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/61593963/136699967-971cb9cb-5b8c-42a5-96b8-b595231ce86c.png" height="40px" />
 <br />
 
 
