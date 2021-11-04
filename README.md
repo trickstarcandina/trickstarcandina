@@ -37,8 +37,8 @@ Ehe Te Nandayo! (￣^￣)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
