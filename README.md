@@ -6,6 +6,8 @@ Ehe Te Nandayo! (￣^￣)
 
 ## **📫 Contact**
 
+- [LinkedIn](https://www.linkedin.com/in/trickstarcandina/)
+
 - [YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
 
 - [Facebook](https://www.facebook.com/100009538187924)
