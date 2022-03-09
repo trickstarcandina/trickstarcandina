@@ -12,9 +12,6 @@ Ehe Te Nandayo! (￣^￣)
 
 - [Facebook](https://www.facebook.com/100009538187924)
 
-- [My server discord](https://discord.gg/7A7NVc5HZf) 
-<!-- - (Name Discord: Trickstar#9586) -->
-
 ## ❤ A few things I love
 
 ### Languages
