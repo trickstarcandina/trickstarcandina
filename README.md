@@ -19,7 +19,6 @@ Ehe Te Nandayo! (￣^￣)
 <img align="left" alt="JS" src="https://user-images.githubusercontent.com/61593963/136700526-74ef3f4e-8f8f-4847-868b-f971d61ed602.png" width="36px" />
 <img align="left" alt="C++" src="https://user-images.githubusercontent.com/61593963/136700643-46456e4d-cb1f-4828-b465-10e42230aa0b.png" width="36px" />
 <img align="left" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="36px" />
-
 <br />
 
 ### Frameworks
@@ -38,13 +37,22 @@ Ehe Te Nandayo! (￣^￣)
 <br />
 <br />
 
+### Others
+<img align="left" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="50px" />
+<img align="left" alt="jenkin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" height="50px" />
+<img align="left" alt="redis" src="https://linuxhint.com/wp-content/uploads/2022/01/redis.png" height="50px" />
+<img align="left" alt="kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="50px" />
+<br />
+<br />
+
 ### Card Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- ### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- 
+### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 
 <!--
