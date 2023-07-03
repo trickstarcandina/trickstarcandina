@@ -3,9 +3,9 @@
 Coding ＞︿＜
 
 Ehe Te Nandayo! (￣^￣)
-
+<!-- 
 ## **📫 Contact**
-
+-->
 <!-- 
 - [LinkedIn](https://www.linkedin.com/in/trickstarcandina/)
 -->
@@ -25,8 +25,9 @@ Ehe Te Nandayo! (￣^￣)
 <br />
 
 ### Frameworks
-<img align="left" alt="Spring" src="https://user-images.githubusercontent.com/61593963/136700303-6dfcf610-198d-4a70-b975-97adfa891dbb.png" width="100px"/>
-<img align="left" alt="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="100px" />
+<img align="left" alt="Spring" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/d0ac1c6e-83aa-4cc3-b429-f6a16c05dc67" width="170px"/>
+<img align="left" alt="Micronaut" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/08b1bd1f-c0ba-4bc2-9c87-2bd9abb42a3c" width="170px"/>
+<img align="left" alt="NodeJS" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/f92809b3-ee82-4800-bee4-1bbe94ed60a2" width="150px" />
 <!--
 <img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136700411-7149ff3d-f6b3-4f34-8b7c-4ae8a2488509.png" width="100px" />
 -->
@@ -41,10 +42,17 @@ Ehe Te Nandayo! (￣^￣)
 <br />
 
 ### Others
-<img align="left" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="50px" />
-<img align="left" alt="jenkin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" height="50px" />
-<img align="left" alt="redis" src="https://linuxhint.com/wp-content/uploads/2022/01/redis.png" height="50px" />
-<img align="left" alt="kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" height="50px" />
+<img align="left" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="40px" />
+<img align="left" alt="jenkin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" height="40px" />
+<br />
+<br />
+<br />
+<img align="left" alt="rabbit" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/703105ba-852d-40ee-b65a-62a1ec8a0b8f" height="40px" />
+<img align="left" alt="kafka" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/5681a3e3-6630-4701-b064-36edf8cf5f28" height="40px" />
+<br />
+<br />
+<br />
+<img align="left" alt="redis" src="https://linuxhint.com/wp-content/uploads/2022/01/redis.png" height="40px" />
 <br />
 <br />
 
