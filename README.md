@@ -48,17 +48,6 @@ Backend and Frontend Developer with expertise in microservices architecture and 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🏗️ Architecture Expertise
-
-I specialize in Event-Driven Architecture (EDA) patterns including:
-
-- Competing Consumer Pattern
-- Consume and Project Pattern
-- Event Sourcing
-- Async Task Execution Pattern
-- Saga Pattern
-- Microservices Design & Implementation
-
 ## 📊 GitHub Stats
 
 <div align="center">
