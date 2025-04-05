@@ -1,81 +1,98 @@
-### Hi there 👋
+# 👋 Hello World, I'm Trickstar
 
-Coding ＞︿＜
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</div>
 
-Ehe Te Nandayo! (￣^￣)
+## 💻 About Me
+
+Backend and Frontend Developer with expertise in microservices architecture and event-driven systems. Passionate about building scalable, resilient applications using modern technologies and best practices.
+
+## 🛠️ Tech Stack
+
+### Language
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend Development
+#### Main 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-007396?style=for-the-badge&logo=micronaut&logoColor=white)
+#### Other
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Message Brokers & Integration
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 🏗️ Architecture Expertise
+
+I specialize in Event-Driven Architecture (EDA) patterns including:
+
+- Competing Consumer Pattern
+- Consume and Project Pattern
+- Event Sourcing
+- Async Task Execution Pattern
+- Saga Pattern
+- Microservices Design & Implementation
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trickstarcandina&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 🌱 Currently Learning
+
+- Golang Programming
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trickstarcandina&theme=nord&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=trickstarcandina&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/trickstarcandina?label=Followers&style=social" alt="Followers" />
+</div>
+
 <!-- 
-## **📫 Contact**
--->
-<!-- 
-- [LinkedIn](https://www.linkedin.com/in/trickstarcandina/)
--->
-<!-- 
-- [YouTube channel](https://www.youtube.com/channel/UCz7dlZOH5a3J_cfssIdNt9w) 
--->
-<!-- 
-- [Facebook](https://www.facebook.com/100009538187924)
--->
-## ❤ A few things I love
-
-### Languages
-<img align="left" alt="Java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="36px" />
-<img align="left" alt="JS" src="https://user-images.githubusercontent.com/61593963/136700526-74ef3f4e-8f8f-4847-868b-f971d61ed602.png" width="36px" />
-<img align="left" alt="C++" src="https://user-images.githubusercontent.com/61593963/136700643-46456e4d-cb1f-4828-b465-10e42230aa0b.png" width="36px" />
-<img align="left" alt="python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="36px" />
-<br />
-
-### Frameworks
-<img align="left" alt="Spring" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/d0ac1c6e-83aa-4cc3-b429-f6a16c05dc67" width="170px"/>
-<img align="left" alt="Micronaut" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/08b1bd1f-c0ba-4bc2-9c87-2bd9abb42a3c" width="170px"/>
-<img align="left" alt="NodeJS" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/f92809b3-ee82-4800-bee4-1bbe94ed60a2" width="150px" />
-<!--
-<img align="left" alt="ReactJS" src="https://user-images.githubusercontent.com/61593963/136700411-7149ff3d-f6b3-4f34-8b7c-4ae8a2488509.png" width="100px" />
--->
-<br />
-<br />
-
-### Databases
-<img align="left" alt="PostgresSQL" src="http://sqladvice.com/wp-content/uploads/2020/08/postgresql-la-gi.png" height="50px" />
-<img align="left" alt="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8E7_yUawQ_GquA0sh9sDykdS31-Xrj6REDbyFRdQmJoIv9nxSECp4HsSLLUirw18Ql2M&usqp=CAU" height="50px" />
-<img align="left" alt="Oracle" src="https://i0.wp.com/deepinthecode.com/wp-content/uploads/2018/09/Oracle_Database.png?fit=432%2C203&ssl=1" height="50px" />
-<img align="left" alt="MySQL" src="https://user-images.githubusercontent.com/61593963/136699898-0e99be87-b485-4e8c-9844-ab88d51ac265.png" height="50px"/>
-<br />
-<br />
-
-### Others
-<img align="left" alt="docker" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="40px" />
-<img align="left" alt="jenkin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" height="40px" />
-<br />
-<br />
-<br />
-<img align="left" alt="rabbit" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/703105ba-852d-40ee-b65a-62a1ec8a0b8f" height="40px" />
-<img align="left" alt="kafka" src="https://github.com/trickstarcandina/trickstarcandina/assets/61593963/5681a3e3-6630-4701-b064-36edf8cf5f28" height="40px" />
-<br />
-<br />
-<br />
-<img align="left" alt="redis" src="https://linuxhint.com/wp-content/uploads/2022/01/redis.png" height="40px" />
-<br />
-<br />
-
 ### Card Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trickstarcandina&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 
--->
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
-
-<!--
-**trickstarcandina/trickstarcandina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
