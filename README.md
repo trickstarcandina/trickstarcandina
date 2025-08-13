@@ -1,9 +1,5 @@
 # 👋 Hello World, I'm Trickstar
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
-</div>
-
 ## 💻 About Me
 
 Backend and Frontend Developer with expertise in microservices architecture and event-driven systems. Passionate about building scalable, resilient applications using modern technologies and best practices.
