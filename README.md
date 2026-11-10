@@ -92,15 +92,12 @@ Full-Stack Developer with strong expertise in **microservices architecture** and
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trickstarcandina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+        <img src="https://streak-stats.demolab.com/?user=trickstarcandina&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=trickstarcandina&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=trickstarcandina&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trickstarcandina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages" />
       </td>
     </tr>
   </table>
